@@ -12,7 +12,7 @@
 
 1. Zero-shot human image customization within seconds with one or several reference faces.
 2. Strong identity preservation ability, even for non-celebrities
-3. Strong language prompt following ability, even change the age or gender of the person.
+3. Strong language prompts following ability, even changing the age or gender of the person.
 4. Flexible strength adjustment for identity image control and language prompt control.
 
 ## Updates
