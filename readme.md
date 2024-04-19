@@ -16,7 +16,7 @@
 4. Flexible strength adjustment for identity image control and language prompt control.
 
 ## Updates
-<video src="https://github.com/jshilong/flashface-page/blob/main/static/githubfigs/flashface.mp4"></video>
+<video src="./examples/flashface.mp4"></video>
 
 - \[April 18\] Inference code of **FlashFace-SD1.5** are released.
 
